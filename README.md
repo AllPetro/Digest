@@ -5,4 +5,4 @@
 
 [Журналы, входящие в Onepetro Digest](https://www.onepetro.org/journals) 
 
-Утверждённые переводы сборников будует опубликованы на [AllPetro](http://www.allpetro.ru)
+Утверждённые переводы сборников будует опубликованы на [AllPetro](http://allpetro.ru/digest/)
