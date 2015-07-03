@@ -14,5 +14,7 @@ and an Overlapping-Control-Volume Finite-Element Method
 
 #Ключевые слова:
 Reservoir Modeling	- моделирование пласта коллектора
+
 flow simulation	- гидродинамическое моделирование
+
 CVFEM (control-volume-based finite element methods)	методы конечных объемов/конечных элементов
