@@ -2,13 +2,17 @@
 
 Статья 1 - https://www.onepetro.org/journal-paper/SPE-163633-PA
 
+#Title
 Reservoir Modeling for Flow Simulation by Use of Surfaces, Adaptive Unstructured Meshes,
 and an Overlapping-Control-Volume Finite-Element Method 
 
+#Перевод названия
 Моделирование пласта-коллектора для гидродинамического моделирования с использованием поверхностей,
 адаптивных неструктурированных сеток и совмещения методов конечных объёмов и конечных элементов
 
-Ключевые слова:
+(моделирования для моделирования? simulation и modeling по-русски одинаково)
+
+#Ключевые слова:
 Reservoir Modeling	- моделирование пласта коллектора
 flow simulation	- гидродинамическое моделирование
 CVFEM (control-volume-based finite element methods)	методы конечных объемов/конечных элементов
