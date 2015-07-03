@@ -11,8 +11,9 @@
 6. [SPE Production & Operations](https://www.onepetro.org/journals/SPE%20Production%20-%20Operations)
 7. [SPE Reservoir Evaluation & Engineering](https://www.onepetro.org/journals/SPE%20Reservoir%20Evaluation%20-%20Engineering)
 8. [Petrophysics](https://www.onepetro.org/journals/Petrophysics)
-8. [Oil and Gas Facilities](https://www.onepetro.org/journals/Oil%20and%20Gas%20Facilities)
-9. [Professional Safety](https://www.onepetro.org/journals/Professional%20Safety)
-10. [International Journal of Offshore and Polar Engineering](https://www.onepetro.org/journals/International%20Journal%20of%20Offshore%20and%20Polar%20Engineering)
+9. [Oil and Gas Facilities](https://www.onepetro.org/journals/Oil%20and%20Gas%20Facilities)
+10. [Professional Safety](https://www.onepetro.org/journals/Professional%20Safety)
+12. [International Journal of Offshore and Polar Engineering](https://www.onepetro.org/journals/International%20Journal%20of%20Offshore%20and%20Polar%20Engineering)
+13. [The Way Ahead](https://www.onepetro.org/journals/The%20Way%20Ahead)
 
 Утверждённые переводы сборников публикуются на [AllPetro](http://allpetro.ru/digest/)
