@@ -1,5 +1,5 @@
 An Improved Model for the Prediction of Pipeline Embedment on the Basis of Assessment of Field Data
-Улучшенная модель прогноза укладки трубопровода на основе оценки полевых данных
+Улучшенная модель прогноза укладки трубопровода на основе оценки промысловых данных
 
 
 Authors   David A. S. Bruton (Crondall Energy) 
