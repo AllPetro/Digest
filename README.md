@@ -1,7 +1,7 @@
 # AllPetro-digest
 Дайджест статей нефтегазовой отрасли. В обзор входят научно-технические статьи последних выпусков зарубежных и российских нефтегазовых журналов и конференций. В подборке будут отражены основные направления отрасли, а также возможность рассмотреть определённые рубрики, узкопрофессиональные тематики.
 
-#Onepetro Digest
+#OnePetro Digest
 ##Journals
 1. [Journal of Canadian Petroleum Technology](https://www.onepetro.org/journals/Journal%20of%20Canadian%20Petroleum%20Technology)
 2. [Journal of Petroleum Technology](https://www.onepetro.org/journals/Journal%20of%20Petroleum%20Technology)
