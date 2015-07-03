@@ -14,4 +14,4 @@
 9. [Professional Safety](https://www.onepetro.org/journals/Professional%20Safety)
 10. [International Journal of Offshore and Polar Engineering](https://www.onepetro.org/journals/International%20Journal%20of%20Offshore%20and%20Polar%20Engineering)
 
-Утверждённые переводы сборников будует опубликованы на [AllPetro](http://allpetro.ru/digest/)
+Утверждённые переводы сборников публикуются на [AllPetro](http://allpetro.ru/digest/)
